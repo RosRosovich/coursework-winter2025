@@ -2,7 +2,7 @@
 
 ![Java Version](https://img.shields.io/badge/Java-17%2B-orange?style=for-the-badge&logo=openjdk)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-2.0-blue?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge)
 
 Современная объектно-ориентированная реализация классической игры "Крестики-нолики" с расширенными возможностями. Проект демонстрирует лучшие практики Java разработки, включая чистую архитектуру, паттерны проектирования и работу с файловой системой.
 
